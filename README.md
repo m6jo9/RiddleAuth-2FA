@@ -36,10 +36,10 @@
 
 <img width="1205" height="624" alt="изображение" src="https://github.com/user-attachments/assets/9c0c42d0-8c6d-4b32-b1a1-dcc4a4b19e21" />
 <img width="1270" height="542" alt="изображение" src="https://github.com/user-attachments/assets/6a94be5a-1377-4627-bee4-91d3c1a23745" />
-<img width="295" height="85" alt="изображение" src="https://github.com/user-attachments/assets/b14bff9a-06f5-4669-a033-c95921b78a0d" />
-<img width="406" height="144" alt="изображение" src="https://github.com/user-attachments/assets/ed2812c4-e737-4fd9-be34-8a946f7ceb89" />
 <img width="304" height="453" alt="изображение" src="https://github.com/user-attachments/assets/94ebb11b-d774-4478-8252-9c99bf9aee0e" />
+<img width="406" height="144" alt="изображение" src="https://github.com/user-attachments/assets/ed2812c4-e737-4fd9-be34-8a946f7ceb89" />
 <img width="340" height="79" alt="изображение" src="https://github.com/user-attachments/assets/f7d1aed2-4cfb-46a9-8a9e-f8be32120519" />
+<img width="295" height="85" alt="изображение" src="https://github.com/user-attachments/assets/b14bff9a-06f5-4669-a033-c95921b78a0d" />
 
 
 # ❗ Ты можешь свободно использовать, модифицировать и распространять код!
